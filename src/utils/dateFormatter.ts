@@ -1,0 +1,14 @@
+import moment from 'moment';
+
+export const formatPostDate = (dateString: string): string => {
+  return moment(dateString).fromNow();
+};
+
+export const formatLikesCount = (count: number): string => {
+  if (count >= 1000000) {
+    return `${(count / 1000000).toFixed(1)}M`;
+  } else if (count >= 1000) {
+    return `${(count / 1000).toFixed(1)}K`;
+  }
+  return count.toString();
+};
