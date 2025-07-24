@@ -139,10 +139,10 @@ interface Post {
 
 ## 👨‍💻 Desarrollado por
 
-**Ignacio Torres**  
+**Ignacio Torres González**  
 Candidato para Mobile Engineer - Zubale
 
-📧 ignacio.torres.g@mail.pucv.cl  
+📧 ignacioat.2001@gmail.com  
 🔗 [GitHub](https://github.com/Ignacio1-at)
 
 ---
@@ -163,3 +163,5 @@ Este proyecto va más allá de los requerimientos básicos, implementando un sis
 - Capacidad de crear experiencias de usuario complejas
 - Conocimiento profundo de animaciones y gestos
 - Arquitectura escalable y mantenible
+
+```
